@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**lucasreald/lucasreald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá, me chamo <strong>Lucas</strong></h1>
 
-Here are some ideas to get you started:
+- ▫️ iOS Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ▫️ Swift | SwifUI
+
+- ▫️ Gmail: lucasreald@gmail.com
+
+- ▫️ <a href="https://www.linkedin.com/lucasreald" target="_blank">Linkedin</a>
+
+- ▫️ <a href="https://discord.gg/aQyPJ5Uehj" target="_blank">Discord</a> Escalando com Swift 
+
+
