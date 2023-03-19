@@ -1,5 +1,5 @@
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá, me chamo <strong>Lucas</strong></h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá, sou o <strong>Lucas</strong></h1>
 Tenho 25 anos, sou Desenvolvedor iOS e estou cursando Análise e Desenvolvimento de Sistemas.<br><br>
 ❕Escrevo uma documentação no Notion sobre <strong>Swift</strong>, para acessar <a href="https://lucasreald.notion.site/lucasreald/Guia-Swift-820bffbbb32c4f5ca658e3ab725c12d1" target="_blank">Clique aqui</a>.<br>
 ❕Também sou o criador da comunidade <strong>Escalando com Swift</strong> do Discord. Para fazer parte <a href="https://discord.gg/aQyPJ5Uehj" target="_blank">Clique aqui</a>.<br><br>
