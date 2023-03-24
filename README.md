@@ -1,5 +1,5 @@
 ## 🙇‍♂️ About Me:
-Brazilian iOS Developer, studying higher education in Systems Analysis and Development at Estácio College.<br>
+I'm a brazilian iOS Developer, studying Systems Analysis and Development at Estácio College.<br>
 💬 Ask me about Swift and SwiftUI.<br>
 📝I'm writing a document in Notion about <strong>Swift</strong>. To access <a href="https://lucasreald.notion.site/lucasreald/Guia-Swift-820bffbbb32c4f5ca658e3ab725c12d1" target="_blank">Click here</a>.<br>
 📚I have a community on Discord about iOS development, feel free to join us. Below is the access link.<br>
