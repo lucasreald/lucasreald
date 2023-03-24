@@ -1,8 +1,8 @@
 ## 🙇‍♂️ About Me:
 I'm a brazilian iOS Developer, studying Systems Analysis and Development at Estácio College.<br>
-  💬  Ask me about Swift and SwiftUI.<br>
-  📝  I'm writing a document in Notion about <strong>Swift</strong>. To access <a href="https://lucasreald.notion.site/lucasreald/Guia-Swift-820bffbbb32c4f5ca658e3ab725c12d1" target="_blank">Click here</a>.<br>
-  📚  I have a community on Discord about iOS development, feel free to join us. Below is the access link.<br>
+ㅤㅤ💬  Ask me about Swift and SwiftUI.<br>
+ㅤㅤ📝  I'm writing a document in Notion about <strong>Swift</strong>. To access <a href="https://lucasreald.notion.site/lucasreald/Guia-Swift-820bffbbb32c4f5ca658e3ab725c12d1" target="_blank">Click here</a>.<br>
+ㅤㅤ📚  I have a community on Discord about iOS development, feel free to join us. Below is the access link.<br>
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreald&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br>
